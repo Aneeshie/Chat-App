@@ -1,4 +1,4 @@
-(the previous repo became a mess because im a retard and didnt commit properly)
+
 
 ### Setup .env file
 
